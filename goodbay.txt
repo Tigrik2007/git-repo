@@ -1,2 +1,2 @@
 print("hgoodbay")
-print("hgoodbay")
+print("goodbay")
