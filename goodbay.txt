@@ -1,1 +1,2 @@
 print("hgoodbay")
+print("hgoodbay")
