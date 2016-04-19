@@ -1,0 +1,2 @@
+print("hgoodbay")
+print("goodbay")
